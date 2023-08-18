@@ -18,8 +18,8 @@ A challenge to create an Order summary component based on the designs provided.
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: [https://www.frontendmentor.io/solutions/a-solution-using-flexbox-and-media-query-PxwPaHzcBa](https://www.frontendmentor.io/solutions/a-solution-using-flexbox-and-media-query-PxwPaHzcBa)
+- Live Site URL: [https://golden-rugelach-f3eb33.netlify.app/](https://golden-rugelach-f3eb33.netlify.app/)
 
 ## My process
 
